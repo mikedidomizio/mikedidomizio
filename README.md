@@ -1,16 +1,20 @@
-### Hi there 👋
+[![Mike DiDomizio's github stats](https://github-readme-stats.vercel.app/api?username=mikedidomizio)](https://github.com/mikedidomizio/github-readme-stats)
+[![Mike DiDomizio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedidomizio&hide_title=true&hide_border=true&layout=compact)](https://github.com/mikedidomizio/github-readme-stats)
 
-<!--
-**mikedidomizio/mikedidomizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer that loves coding 🖥️ , boxing 🥊, video games 🎮, fitness 💪, and sports cars 🏎️.  My main focus is Javascript but I dabble in Python, Java and Go.  I have worked on frontend work, backend work, mobile apps, electron apps.  I am that guy that spends hours coding something that takes 5 mins to do occasionally.
 
-Here are some ideas to get you started:
+The best way to chat with me is Twitter:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter](https://twitter.com/Mike_DiDomizio)
+
+For more professional reasons, LinkedIn works too:
+
+[LinkedIn](https://www.linkedin.com/in/mike-didomizio-a7324876/)
+
+In case you want to see some travel/boxing photos:
+
+[Instagram](https://www.instagram.com/mikedidomizio/)
+
+My website that currently is just my résumé:
+
+[Website](http://mikedidomizio.com)
