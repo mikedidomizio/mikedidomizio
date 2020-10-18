@@ -1,5 +1,5 @@
-[![Mike DiDomizio's github stats](https://github-readme-stats.vercel.app/api?username=mikedidomizio)](https://github.com/mikedidomizio/github-readme-stats)
-[![Mike DiDomizio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedidomizio&hide_border=true&layout=compact)](https://github.com/mikedidomizio/github-readme-stats)
+[![Mike DiDomizio's github stats](https://github-readme-stats.vercel.app/api?username=mikedidomizio)](https://github.com/mikedidomizio)
+[![Mike DiDomizio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedidomizio&hide_border=true&layout=compact)](https://github.com/mikedidomizio)
 
 I'm a developer that loves coding 🖥️ , boxing 🥊, video games 🎮, fitness 💪, and sports cars 🏎️. My main focus is Javascript but I dabble in Python, Java and Go. I am that guy that spends hours coding something that takes 5 mins to do occasionally.
 
