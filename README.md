@@ -1,7 +1,7 @@
 [![Mike DiDomizio's github stats](https://github-readme-stats.vercel.app/api?username=mikedidomizio)](https://github.com/mikedidomizio)
 [![Mike DiDomizio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedidomizio&hide_border=true&layout=compact)](https://github.com/mikedidomizio)
 
-I'm a developer that loves coding 🖥️ , boxing 🥊, video games 🎮, fitness 💪, and sports cars 🏎️. My main focus is Javascript but I dabble in Python, Java. I am that guy that spends hours coding something that takes 5 mins to do occasionally.
+I'm a developer that loves coding, boxing, video games, fitness, and sports cars. My main focus is Javascript but I dabble in Python, Java.  I enjoy spending time messing around coding and seeing what I can come up with.
 
 The best way to chat with me is Twitter - [Twitter](https://twitter.com/Mike_DiDomizio)
 
