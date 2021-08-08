@@ -7,17 +7,31 @@ I've been coding for almost 10 years.  Everything from frontend development, bac
 
 Right now I really enjoy working with React, GCP and terraforming.
 
-I'm always interested in talking about coding.  So whether you'd like to talk about working together or just software development in general, reach out to me.
-
 <hr>
 <h2 align="center">How to reach me</h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-Mike_DiDomizio-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Mike_DiDomizio/)](https://twitter.com/Mike_DiDomizio/)
-[![Facebook Badge](https://img.shields.io/badge/-mikedidomizio-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mike.didomizio/)](https://www.facebook.com/mike.didomizio/)
-[![Linkedin Badge](https://img.shields.io/badge/-mikedidomizio-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikedidomizio/)](https://www.linkedin.com/in/mikedidomizio/)
-[![Youtube Badge](https://img.shields.io/badge/-Mike%20DiDomizio-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWWkY6fQnbqFZNbuCps-Bvw)](https://www.youtube.com/channel/UCWWkY6fQnbqFZNbuCps-Bvw)
-[![Gmail Badge](https://img.shields.io/badge/-mikedidomizio@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mikedidomizio@gmail.com)](mailto:mikedidomizio@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-mikedidomizio-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/mikedidomizio/)](https://www.instagram.com/mikedidomizio/)
+I'm always interested in talking about coding.  So whether you'd like to talk about working together or just software development in general, reach out to me.
+
+<p align="center">
+  <a href="https://twitter.com/Mike_DiDomizio/" target="_blank">
+    <img alt="Twitter Badge" src="https://img.shields.io/badge/-Mike_DiDomizio-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Mike_DiDomizio/" />
+  </a>
+  <a href="https://www.facebook.com/mike.didomizio/" target="_blank">
+    <img alt="Facebook Badge" src="https://img.shields.io/badge/-mikedidomizio-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mike.didomizio/" />
+  </a>
+  <a href="https://www.linkedin.com/in/mikedidomizio/" target="_blank">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-mikedidomizio-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikedidomizio/" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCWWkY6fQnbqFZNbuCps-Bvw" target="_blank">
+    <img alt="YouTube Badge" src="https://img.shields.io/badge/-Mike%20DiDomizio-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWWkY6fQnbqFZNbuCps-Bvw" />
+  </a>
+  <a href="mailto:mikedidomizio@gmail.com" target="_blank">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-mikedidomizio@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mikedidomizio@gmail.com" />
+  </a>
+  <a href="https://www.instagram.com/mikedidomizio/" target="_blank">
+    <img alt="Instagram Badge" src="https://img.shields.io/badge/-mikedidomizio-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/mikedidomizio/" />
+  </a>
+</p>
 
 <hr>
 <h2 align="center">Check out some of my repos ⬇️</h2>
