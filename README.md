@@ -26,6 +26,3 @@ I'm always interested in talking about coding.  So whether you'd like to talk ab
   <a href="https://www.instagram.com/mikedidomizio/" target="_blank">
     <img alt="Instagram Badge" src="https://img.shields.io/badge/-mikedidomizio-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/mikedidomizio/" /></a>
 </p>
-
-<hr>
-<h2 align="center">Check out some of my repos ⬇️</h2>
