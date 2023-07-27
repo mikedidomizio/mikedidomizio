@@ -16,6 +16,8 @@ My work with improving locating hard to find COVID Rapid Antigen Tests in Canada
 |-|-|-|
 | [![Inteview with CTV Toronto](https://img.youtube.com/vi/JZNTT7g3ytQ/0.jpg)](https://www.youtube.com/watch?v=JZNTT7g3ytQ) | [![Interview with CTV Ottawa](https://img.youtube.com/vi/6ofQ82206K8/0.jpg)](https://www.youtube.com/watch?v=6ofQ82206K8) | [![Interview with CFRA 580](https://img.youtube.com/vi/Fp-UrFE7BQM/0.jpg)](https://www.youtube.com/watch?v=Fp-UrFE7BQM) |
 
+Other interviews that have been lost over time include CBC Radio One, Magic 96.7 Peterborough and a few others.
+
 <h2 align="center">How to reach me</h2>
 
 I'm always interested in talking about coding.  So whether you'd like to talk about working together or just software development in general, reach out to me.
