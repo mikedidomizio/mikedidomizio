@@ -11,10 +11,7 @@ Right now I really enjoy prototyping things quickly with NextJS.
 - [PartyKit](https://github.com/mikedidomizio/partykit-chat) - Using PartyKit/NextJS, a concept for building different socket layers using React Context.
 - [Transcriber Summarizer](https://github.com/mikedidomizio/transcriber-summarizer) - Summarize audio with AWS Transcribe and get a breakdown via OpenAI 
 
-<details>
-  <summary><h3>Click here to see some media appearances</h3></summary>
-
-In my career there's been a few times my work has gained enough attention that I've been interviewed for it.
+<h3>Media Appearances</h3>
 
 <table>
     <thead>
@@ -73,8 +70,6 @@ In my career there's been a few times my work has gained enough attention that I
 </table>
 
 Other interviews that have been lost over time include CBC Radio One, Toronto Star, Magic 96.7 Peterborough, CHEZ 106.1 Ottawa.
-
-</details>
 
 <h3>How to reach me</h3>
 
