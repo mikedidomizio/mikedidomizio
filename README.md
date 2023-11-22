@@ -1,3 +1,4 @@
+<h3>About me</h3>
 
 My main focus is Typescript/Node but I dabble in Python, Java.  I enjoy spending time messing around coding and seeing what I can come up with.
 
@@ -16,7 +17,7 @@ Right now I really enjoy prototyping things quickly with NextJS.
 <table>
     <thead>
         <tr>
-            <td colspan="3" align="center"><h4>2021</h4></td>
+            <td colspan="3" align="center">2021</td>
         </tr>
         <tr><td colspan="3" align="center">My work in improving locating hard to find COVID Rapid Antigen Tests in Canada.</td></tr>
         <tr>
@@ -49,8 +50,12 @@ Right now I really enjoy prototyping things quickly with NextJS.
 <table>
     <thead>
         <tr>
-            <td align="center"><h4>2014</h4></td>
-            <td align="center"><h4>2011</h4></td>
+            <td align="center">2014</td>
+            <td align="center">2011</td>
+        </tr>
+        <tr>
+            <td align="center">Northumberland Today</td>
+            <td align="center">Northumberland Today</td>
         </tr>
         <tr>
             <td align="center">Interview on a short video application (like Tiktok/Vine) that released on iOS and desktop.</td>
