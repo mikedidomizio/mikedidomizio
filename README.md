@@ -16,29 +16,61 @@ Right now I really enjoy prototyping things quickly with NextJS.
 
 In my career there's been a few times my work has gained enough attention that I've been interviewed for it.
 
-<h4>2021</h4>
+<table>
+    <thead>
+        <tr>
+            <td colspan="3" align="center"><h4>2021</h4></td>
+        </tr>
+        <tr><td colspan="3" align="center">My work in improving locating hard to find COVID Rapid Antigen Tests in Canada.</td></tr>
+        <tr>
+            <td align="center">Inteview with CTV Toronto</td>
+            <td align="center">Interview with CTV Ottawa</td>
+            <td align="center">Inteview with CFRA 580</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://www.youtube.com/watch?v=JZNTT7g3ytQ">
+                    <img alt="Inteview with CTV Toronto" src="https://img.youtube.com/vi/JZNTT7g3ytQ/0.jpg" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.youtube.com/watch?v=6ofQ82206K8">
+                    <img alt="Interview with CTV Ottawa" src="https://img.youtube.com/vi/6ofQ82206K8/0.jpg" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.youtube.com/watch?v=Fp-UrFE7BQM">
+                    <img alt="Inteview with CFRA 580" src="https://img.youtube.com/vi/Fp-UrFE7BQM/0.jpg" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-My work in improving locating hard to find COVID Rapid Antigen Tests in Canada.
-
-| CTV Toronto | CTV Ottawa | CFRA 580 |
-|-|-|-|
-| [![Inteview with CTV Toronto](https://img.youtube.com/vi/JZNTT7g3ytQ/0.jpg)](https://www.youtube.com/watch?v=JZNTT7g3ytQ) | [![Interview with CTV Ottawa](https://img.youtube.com/vi/6ofQ82206K8/0.jpg)](https://www.youtube.com/watch?v=6ofQ82206K8) | [![Interview with CFRA 580](https://img.youtube.com/vi/Fp-UrFE7BQM/0.jpg)](https://www.youtube.com/watch?v=Fp-UrFE7BQM) |
-
-<h4>2014</h4>
-
-Interview on a short video application (like Tiktok/Vine) that released on iOS and desktop.
-
-| NorthumberlandToday.com |
-|-|
-| <img height="400px" alt="Newspaper article about mideome.com website" src="./assets/mideomeNewspaper.png" /> |
-
-<h4>2011</h4>
-
-Interview on a website with the goal to improve shopping locally.
-
-| NorthumberlandToday.com |
-|-|
-| <img height="400px" alt="Newspaper article about searchnorthumberland.com website" src="./assets/searchNorthumberlandNewspaper.png" /> | 
+<table>
+    <thead>
+        <tr>
+            <td align="center"><h4>2014</h4></td>
+            <td align="center"><h4>2011</h4></td>
+        </tr>
+        <tr>
+            <td align="center">Interview on a short video application (like Tiktok/Vine) that released on iOS and desktop.</td>
+            <td align="center">Interview on a website with the goal to improve shopping locally.</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">
+                <img height="400px" alt="Newspaper article about mideome.com website" src="./assets/mideomeNewspaper.png" />
+            </td>
+            <td align="center">
+                <img height="400px" alt="Newspaper article about searchnorthumberland.com website" src="./assets/searchNorthumberlandNewspaper.png" /> 
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 Other interviews that have been lost over time include CBC Radio One, Toronto Star, Magic 96.7 Peterborough, CHEZ 106.1 Ottawa.
 
