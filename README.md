@@ -9,7 +9,6 @@ Right now I really enjoy prototyping things quickly with NextJS.
 <h2>What I've recently been working on</h2>
 
 - [LaunchDorkly](https://github.com/mikedidomizio/launchdorkly) - A different or power user approach to a UI for LaunchDarkly.
-- [PartyKit Chat](https://github.com/mikedidomizio/partykit-chat) - A concept for building different socket layers using React Context.
 - [Transcriber Summarizer](https://github.com/mikedidomizio/transcriber-summarizer) - Summarize audio with AWS Transcribe and get a breakdown via OpenAI
 
 <h2>How to reach me</h2>
