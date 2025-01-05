@@ -11,10 +11,8 @@ Right now I really enjoy prototyping things quickly with NextJS.
 I'm always interested in talking about coding.  So whether you'd like to talk about working together or just software development in general, reach out to me.
 
 <p align="center">
-  <a href="https://twitter.com/Mike_DiDomizio/" target="_blank">
-    <img alt="Twitter Badge" src="https://img.shields.io/badge/-Mike_DiDomizio-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Mike_DiDomizio/"/></a>
+  <a href="https://bsky.app/profile/mikedidomizio.com" target="_blank">
+    <img alt="Bluesky Badge" src="https://img.shields.io/badge/-Mike_DiDomizio-blue?style=plastic&logo=Bluesky&logoColor=white&link=https://bsky.app/profile/mikedidomizio.com"/></a>
   <a href="https://www.linkedin.com/in/mikedidomizio/" target="_blank">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-mikedidomizio-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikedidomizio/" /></a>
-<a href="https://www.youtube.com/channel/UCWWkY6fQnbqFZNbuCps-Bvw" target="_blank">
-  <img alt="YouTube Badge" src="https://img.shields.io/badge/-Mike%20DiDomizio-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWWkY6fQnbqFZNbuCps-Bvw" /></a>
 </p>
