@@ -6,11 +6,6 @@ I've worked in frontend development, backend development, mobile development, in
 
 Right now I really enjoy prototyping things quickly with NextJS.
 
-<h2>What I've recently been working on</h2>
-
-- [LaunchDorkly](https://github.com/mikedidomizio/launchdorkly) - A different or power user approach to a UI for LaunchDarkly.
-- [Transcriber Summarizer](https://github.com/mikedidomizio/transcriber-summarizer) - Summarize audio with AWS Transcribe and get a breakdown via OpenAI
-
 <h2>How to reach me</h2>
 
 I'm always interested in talking about coding.  So whether you'd like to talk about working together or just software development in general, reach out to me.
